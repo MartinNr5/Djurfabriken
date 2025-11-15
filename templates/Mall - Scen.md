@@ -1,13 +1,20 @@
+---
+aat-event-start-date:
+aat-event-end-date:
+aat-render-enabled: "true"
+timelines:
+tags:
+---
+# Information
+**POV:** 
+**Intensitet:**
+**Plats:**
+## Extern konflikt
+## Inre konflikt
 
-| POV            |     |
-| -------------- | --- |
-| **Tidpunkt**   |     |
-| **Plats**      |     |
-| **Intensitet** |     |
-| **Karaktärer** |     |
-| **Revision**   |     |
+## Karaktärspåverkan
+
+## Förflyttning av handling
 
 # Synopsis
 
-# Karaktärsutveckling
-# Förflyttning av handling

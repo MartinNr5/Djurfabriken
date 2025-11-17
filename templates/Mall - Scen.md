@@ -5,16 +5,17 @@ aat-render-enabled: "true"
 timelines:
 tags:
 ---
+%% 
 # Information
-**POV:** 
-**Intensitet:**
-**Plats:**
+POV: **Emir**
+Intensitet: **2**
+Plats: **Utanför AgroNovas HK**
 ## Extern konflikt
+
 ## Inre konflikt
 
 ## Karaktärspåverkan
 
 ## Förflyttning av handling
 
-# Synopsis
-
+%%

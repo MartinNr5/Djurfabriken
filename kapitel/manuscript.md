@@ -1,29 +1,7 @@
----
-aat-event-start-date:
-aat-event-end-date:
-aat-render-enabled: "true"
-timelines:
-tags:
-  - MC
-  - Emir
-  - Jenna
-  - Zarah
-  - Teodor
----
-%% 
-# Information
-POV: **Emir**
-Intensitet: **2**
-Plats: **Utanför AgroNovas HK**
-## Extern konflikt
+# Raka spåret
 
-## Inre konflikt
 
-## Karaktärspåverkan
 
-## Förflyttning av handling
-
-%%
 
 Emir höll krampaktigt om bultsaxen. Det var nu eller aldrig. Om resten av gruppen skulle ta honom på allvar fick han fan inte banga nu. Det var en grej att snacka om hur viktigt det var med human behandling av djur och en helt annan att bryta sig in på AgroNovas område.
 

@@ -31,7 +31,7 @@ Det var Johannes som äntligen gick hem. Rickard kastade en snabb blick på kloc
 
 Trots att hans vänner borde vara en bra bit in i tunnlarna under AgroNova vid det här laget syntes inget i övervakningssystemet, något han skamset insåg var ett bra tecken. Hade de synts på övervakningen skulle deras insats gå i diket innan de ens han börja.
 
-Han hade precis rest sig för att låsa ytterdörrarna när Carolina Hjortfeldt  klev in.
+Han hade precis rest sig för att låsa ytterdörrarna när Carolina Hjorthfeldt klev in.
 
 "Öh, hej." fick han ur sig, omedelbart medveten om hur tafatt han lät.
 

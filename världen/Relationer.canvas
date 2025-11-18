@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"aa822d4939a15422","x":-1540,"y":-2060,"width":1478,"height":1880,"color":"4","type":"group","label":"DBF"},
+		{"id":"c8c5b611ed2d4351","x":-2700,"y":-2060,"width":960,"height":1160,"color":"2","type":"group","label":"AgroNova"},
+		{"id":"dbcf09bd1f0001af","type":"file","file":"världen/organisationer/Djurens befrielsefront (DBF).md","x":-1000,"y":-1320,"width":400,"height":400},
+		{"id":"c51c3f3bebac2e03","type":"file","file":"världen/organisationer/AgroNova.md","x":-2160,"y":-1320,"width":400,"height":400},
+		{"id":"94628d6715a3d8ab","type":"file","file":"världen/karaktärer/Rickard.md","x":-1520,"y":-600,"width":400,"height":400},
+		{"id":"8ca2a1be4881bf0e","type":"file","file":"världen/karaktärer/Teodor.md","x":-482,"y":-600,"width":400,"height":400},
+		{"id":"5bcf3bb453f33ade","type":"file","file":"världen/karaktärer/Jens.md","x":-1000,"y":-600,"width":400,"height":400},
+		{"id":"1af267e355c6fab5","type":"file","file":"världen/karaktärer/Jenna.md","x":-1520,"y":-2040,"width":400,"height":400},
+		{"id":"12fdb531871d0ec8","type":"file","file":"världen/karaktärer/Zarah.md","x":-1000,"y":-2040,"width":400,"height":400},
+		{"id":"e9872e27d2e033b5","type":"file","file":"världen/karaktärer/Emir.md","x":-482,"y":-2040,"width":400,"height":400},
+		{"id":"8dade0739907bb03","type":"file","file":"världen/karaktärer/Carolina Hjorthfeldt.md","x":-2160,"y":-2040,"width":400,"height":400},
+		{"id":"4a778aba7f24115e","x":-2680,"y":-2040,"width":400,"height":400,"type":"file","file":"världen/karaktärer/Gabriel Andreasson.md"}
+	],
+	"edges":[
+		{"id":"83d552f2b8d01751","fromNode":"94628d6715a3d8ab","fromSide":"top","toNode":"dbcf09bd1f0001af","toSide":"bottom","label":"Tillhör"},
+		{"id":"87788f5de94e1120","fromNode":"5bcf3bb453f33ade","fromSide":"top","toNode":"dbcf09bd1f0001af","toSide":"bottom","label":"Tillhör"},
+		{"id":"059164c48c0cf8c3","fromNode":"8ca2a1be4881bf0e","fromSide":"top","toNode":"dbcf09bd1f0001af","toSide":"bottom","label":"Tillhör"},
+		{"id":"da646da56e7fba17","fromNode":"1af267e355c6fab5","fromSide":"bottom","toNode":"dbcf09bd1f0001af","toSide":"top","label":"Tillhör"},
+		{"id":"74c4592eb331cf72","fromNode":"12fdb531871d0ec8","fromSide":"bottom","toNode":"dbcf09bd1f0001af","toSide":"top","label":"Tillhör"},
+		{"id":"ebb664f99ddd06f7","fromNode":"e9872e27d2e033b5","fromSide":"bottom","toNode":"dbcf09bd1f0001af","toSide":"top","label":"Tillhör"},
+		{"id":"c3dc401ecb877573","fromNode":"94628d6715a3d8ab","fromSide":"top","toNode":"c51c3f3bebac2e03","toSide":"bottom","label":"Jobbar på"},
+		{"id":"62c0f538d4dc3398","fromNode":"8dade0739907bb03","fromSide":"bottom","toNode":"c51c3f3bebac2e03","toSide":"top","label":"Jobbar på"},
+		{"id":"cccf219a6fa8d4a8","fromNode":"4a778aba7f24115e","fromSide":"bottom","toNode":"c51c3f3bebac2e03","toSide":"top","label":"Jobbar på"}
+	]
+}

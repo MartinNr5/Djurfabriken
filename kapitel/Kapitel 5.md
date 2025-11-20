@@ -63,4 +63,10 @@ Teodor tog ännu ett steg och tornade nu över Emir som med sina futtiga 169 cen
 
 "Hur menar du då?"
 
-"Jo,  Rickard är ju bara en person som under varit tvungen att pussla"
+"Jo,  Rickard är ju bara en person som under mycket hemlighetsmakeri varit tvungen att pussla ihop en karta från lösryckta fragment han med mycket möda samlat på sig. Med de förutsättningarna är det ingen som kan få till en perfekt karta, inte ens Rickard."
+
+Zarah noterade med visst intresse hur Teodor verkade begrunda Emir i ärlighetens namn ganska snygga om än genomskinliga räddning. Teodor nickade eftertänksamt.
+
+"Du har en poäng. Det finns en risk att Rickard fått felaktig eller inkomplett information vilket naturligtvis påverkar kvaliteten på kartan."
+
+"Så är vi alla överens om att vi vänder om och provar antingen Jens eller Emirs förslag?"

@@ -24,6 +24,6 @@ Inte ens en timme in i uppdraget och allting höll på att gå åt pipan. Den d�
 
 Det var extremt frustrerande att inte kunna leda gruppen raka spåret till ingången men då hade de fatta misstankar omedelbart. Oavsett hur bra information Rickard hade fått - via omvägar så klart - hade han inte lyckats få till en fungerande karta. Med lite tur skulle det gå att obemärkt leda gruppen tillbaka i rätt riktning.
 
-Förutsatt att ingen annan 
+Förutsatt att ingen annan retar upp Teodor, även om det var osannolikt med tanke på vad som precis hade utspelat sig. Skulle det gå att utnyttja spänningen mellan Emir och Teodor? Ju mer kaos och förvirring det blir när det väl gäller desto enklare blir det att klara sig undan oskadd. 
 
-Skulle det gå att utnyttja den här spänningen mellan de två? Ju mer kaos och förvirring det blir när det väl gäller desto enklare blir det att klara sig undan oskadd. Och med 
+Med AgroNovas hemligheter i säkert förvar.

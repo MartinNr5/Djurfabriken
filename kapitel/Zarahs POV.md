@@ -29,7 +29,7 @@ Närmare 2 meter lång och hälften så bred över axlarna men med ett ansikte s
 
 "Vet du, jag börjar bli lite osäker själv." svarade Jenna.
 
-En av de få personer Teodor inte brusade upp mot var Jenna. Ingen visste riktigt varför och de två hade aldrig nämnt orsaken med ett ord. 
+En av de få personer Teodor inte brusade upp mot var Jenna. Ingen visste riktigt varför och de två hade aldrig nämnt det med ett ord. 
 
 "Vad baserar du det på?" frågade Zarah.
 
@@ -51,7 +51,7 @@ Han hade inte varit med i gruppen tillräckligt länge för att veta hur illa Te
 
 "Jo, men nu är vi ju flera stycken som tillsammans har pluggat in instruktionerna och den ganska rudimentära karta vi fått."
 
-Teodor lade hastigt ifrån sig sin ryggsäck med ett ljudligt klonkande som fick Jenna att hoppa till och tog ett steg mot Emir.
+Teodor tog ett steg mot Emir och lade hastigt ifrån sig sin ryggsäck med ett ljudligt klonkande som fick Jenna att hoppa till.
 
 "Nu låter det nästan som om du tycker att Rickard inte är kompetent nog att förse oss med instruktioner och en karta som är tillräckligt exakta för att vi skall hitta dit vi skall."
 
@@ -83,6 +83,6 @@ En av anledningarna till att Jennas inlägg på sociala medier var så framgång
 
 Vid närmare eftertanke var det kanske "stilig" hon hade använt.
 
-Historien var å andra sidan full av vackra galenpannor så det vore nog klokt att försöka ta en titt i ryggsäcken. För säkerhets skull.
+Historien var full av vackra galenpannor så det vore nog klokt att försöka ta en titt i ryggsäcken. För säkerhets skull.
 
 ---

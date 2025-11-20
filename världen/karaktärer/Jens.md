@@ -1,3 +1,5 @@
+Förrädare. Jobbar åt en konkurrent till AgroNova och har i snart ett års tid jobbat på sin täckmantel inom DBF för att kunna komma åt AgroNovas
+
 | Ålder                                       |     |
 | ------------------------------------------- | --- |
 | Född                                        |     |

@@ -37,4 +37,8 @@ En av de få personer Teodor inte brusade upp mot var Jenna. Ingen visste riktig
 
 Svaga, kallvita LED-lampor gav tunneln ett nästan sjukligt intryck och den uppenbara bristen på underhåll gjorde inget för att mildra intrycket. Isolering som hängde slappt på rör som löpte längs med väggen, klistermärken som fallit av när limmet obönhörligen hade torkat, färg som flagnat på vad som tyckets vara precis varenda yta hon kunde se, och oväntat mycket damm.
 
-Den sträckte sig mycket riktigt säkert femtio-sextio meter bort innan den krökte av åt höger.
+Den sträckte sig mycket riktigt säkert femtio-sextio meter bort innan den krökte av åt höger. Från tunnelns mynning hade de räknat ut att det var nästan en kilometer till dörren de skulle använda för att ta sig in i byggnaden men det var fågelvägen, vilket var raka motsatsen till den väg de faktiskt tagit.
+
+"Det verkar inte bättre." flikade Jens in. "Vi gick förbi en förgrening längre bort som kanske är den Rickard menade."
+
+"Tror du inte att vi borde backa tillbaka ännu längre? Innan den förgreningen, cirka fyrtio meter, passerade vi en förstärkt ståldörr med dubbla låskolvar som också vetter åt rätt håll. Spontant känns det som om den här tunneln leder oss vidare mot en annan "

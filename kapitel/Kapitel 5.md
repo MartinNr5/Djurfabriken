@@ -31,4 +31,10 @@ Närmare 2 meter lång och hälften så bred över axlarna men med ett ansikte s
 
 En av de få personer Teodor inte brusade upp mot var Jenna. Ingen visste riktigt varför och de två hade aldrig nämnt orsaken med ett ord. 
 
-"Vad baserar du det på"
+"Vad baserar du det på?" frågade Zarah.
+
+"Ingenting konkret, mest en känsla. Vi har promenerat en bra stund nu och även om vi har bytt riktning ett antal gånger borde vi vara i närheten men vad jag kan se fortsätter den här tunneln i all evighet."
+
+Svaga, kallvita LED-lampor gav tunneln ett nästan sjukligt intryck och den uppenbara bristen på underhåll gjorde inget för att mildra intrycket. Isolering som hängde slappt på rör som löpte längs med väggen, klistermärken som fallit av när limmet obönhörligen hade torkat, färg som flagnat på vad som tyckets vara precis varenda yta hon kunde se, och oväntat mycket damm.
+
+Den sträckte sig mycket riktigt säkert femtio-sextio meter bort innan den krökte av åt höger.

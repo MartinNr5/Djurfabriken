@@ -77,4 +77,10 @@ Hennes tankar gick i stället till Jennas reaktion när Teodor bryskt hade släp
 
 Nu när hon tänkte på det var det lite underligt att Jenna envisats med att packa ryggsäcken själv, innan resten av gänget hade slutit upp utanför tunnelmynningen. Jenna hade alltid slagit Zarah som en klipsk men lite väl idealistisk person, som förmodligen var bättra på att posta uppmaningar i sociala medier än att göra faktisk skillnad. 
 
-Förslaget att angripa AgroNova hade kommit från Rickard, av alla personer, men Jenna hade inte tvekat länge innan hon hoppade på idén med full energi. 
+Förslaget att angripa AgroNova hade kommit från Rickard, av alla personer, men Jenna hade inte tvekat länge innan hon hoppade på idén med full energi. Vad Zarah kunde förstå hade inte mycket annat konsumerat Jennas vakna timmar när hon med m bestämde sig för att genomföra aktionen, även om det inte syntes på henne.
+
+En av anledningarna till att Jennas inlägg på sociala medier var så framgångsrika berodde på att hon var klassiskt vacker, på samma sätt som Marilyn Monroe eller Elizabeth Taylor. Zarah antog i alla fall att så var fallet. Hennes egna inlägg var inte alls lika populära, trots att hon också postade dem på gruppens gemensamma sociala kanaler, och den ende som hade kallat henne vacker var hennes mamma.
+
+Vid närmare eftertanke var det kanske "stilig" hon hade använt.
+
+Historien var å andra sidan full av vackra galenpannor så det vore nog klokt att försöka ta en titt i ryggsäcken.

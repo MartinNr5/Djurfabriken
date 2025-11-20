@@ -21,4 +21,6 @@ Plats: **I servicetunneln till AgroNova**
 %%
 Ju längre in de kom i tunnlarna desto oroligare blev Zarah att Rickards uppgifter inte var helt korrekta. Han var ju inte direkt Mensa-material om man säger så. Med så här många krökar och korsningar av alla de slag var det extremt osannolikt att Rickard hade lyckats pussla ihop en fungerande karta.
 
-Problemet var att han och Teodor var barndomskamrater och en av de få saker som retade upp Teodor var när man pratade illa om hans vänner. Det och om man antydde att han var korkad, vilket han inte var men det 
+Problemet var att han och Teodor var barndomskamrater och en av de få saker som retade upp Teodor var när man pratade illa om hans vänner. Det och om man antydde att han var korkad, vilket han inte var men det var inte så konstigt om han gav det intrycket.
+
+Närmare 2 meter lång och hälften så bred över axlarna men med ett ansikte som inte skulle vara malplacerat på en arton månaders bäbis, fullständigt befriat från all skäggväxt, och en glugg mellan de över framtänderna man skulle kunna kila in det mesta av en kortlek mellan. Lägg till det ett krull, mer bångstyrigt än en 

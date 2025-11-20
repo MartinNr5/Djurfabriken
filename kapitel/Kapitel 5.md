@@ -23,4 +23,12 @@ Ju längre in de kom i tunnlarna desto oroligare blev Zarah att Rickards uppgift
 
 Problemet var att han och Teodor var barndomskamrater och en av de få saker som retade upp Teodor var när man pratade illa om hans vänner. Det och om man antydde att han var korkad, vilket han inte var men det var inte så konstigt om han gav det intrycket.
 
-Närmare 2 meter lång och hälften så bred över axlarna men med ett ansikte som inte skulle vara malplacerat på en arton månaders bäbis, fullständigt befriat från all skäggväxt, och en glugg mellan de över framtänderna man skulle kunna kila in det mesta av en kortlek mellan. Lägg till det ett krull, mer bångstyrigt än en 
+Närmare 2 meter lång och hälften så bred över axlarna men med ett ansikte som inte skulle vara malplacerat på en arton månaders bäbis, fullständigt befriat från all skäggväxt, och en glugg mellan de övre framtänderna man skulle kunna kila in det mesta av en kortlek mellan. Lägg till det ett ymnigt krull, mer otyglat än en kalv på grönbete, i prunkade rött och resultatet blir en individ som kunde vara tagen direkt ur en serietidning.
+
+"Hur ser det ut? Känner vi att vi börjar närma oss?" försökte hon sig försiktigt på. 
+
+"Vet du, jag börjar bli lite osäker själv." svarade Jenna.
+
+En av de få personer Teodor inte brusade upp mot var Jenna. Ingen visste riktigt varför och de två hade aldrig nämnt orsaken med ett ord. 
+
+"Vad baserar du det på"

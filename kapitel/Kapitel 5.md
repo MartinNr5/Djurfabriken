@@ -41,4 +41,14 @@ Den sträckte sig mycket riktigt säkert femtio-sextio meter bort innan den krö
 
 "Det verkar inte bättre." flikade Jens in. "Vi gick förbi en förgrening längre bort som kanske är den Rickard menade."
 
-"Tror du inte att vi borde backa tillbaka ännu längre? Innan den förgreningen, cirka fyrtio meter, passerade vi en förstärkt ståldörr med dubbla låskolvar som också vetter åt rätt håll. Spontant känns det som om den här tunneln leder oss vidare mot en annan "
+"Tror du inte att vi borde backa tillbaka ännu längre? Innan den förgreningen, cirka fyrtio meter, passerade vi en förstärkt ståldörr med dubbla låskolvar som också vetter åt rätt håll. Spontant känns det som om den här tunneln leder oss vidare mot en annan extern ingång."
+
+"Eller så läser ni kanske inte instruktionerna korrekt." genmälde Teodor. "Vad är det som säger att ni inte missade ett steg?"
+
+"Ingenting." var Zarah snabb att flika in och gav Emir en uppmanande blick.
+
+Han hade inte varit med i gruppen tillräckligt länge för att veta hur illa Teodor tog vid sig när någon baktalade hans vänner, och framför allt Rickard. Tyvärr verkade han fast besluten att ta reda på det.
+
+"Jo, men nu är vi ju flera stycken som tillsammans har pluggat in instruktionerna och den ganska rudimentära karta vi fått."
+
+Teodor lade hastigt ifrån sig sin ryggsäck med ett ljudligt klonkande som 

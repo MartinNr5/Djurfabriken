@@ -10,6 +10,8 @@ longform:
     - Kapitel 3
     - Kapitel 4
     - Kapitel 5
+    - - Zarahs POV
+      - Jens POV
   sceneTemplate: templates/Mall - Scen.md
   ignoredFiles:
     - manuscript

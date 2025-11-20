@@ -69,4 +69,8 @@ Zarah noterade med visst intresse hur Teodor verkade begrunda Emir i ärligheten
 
 "Du har en poäng. Det finns en risk att Rickard fått felaktig eller inkomplett information vilket naturligtvis påverkar kvaliteten på kartan."
 
-"Så är vi alla överens om att vi vänder om och provar antingen Jens eller Emirs förslag?"
+"Så är vi alla överens om att vi vänder om och provar antingen Jens eller Emirs förslag?" frågade Jenna i neutral ton.
+
+När ingen opponerade sig vände hon sig resolut om och satte av samma väg de kommit från. Deras tunga kängor ekade dämpat mellan tunnelväggarna och rev upp dammet som precis hade hunnit lägga sig till ro runt deras fotavtryck. Zarah var inte förvånad över att Emir höll sig på behörigt avstånd från Teodor, även om det verkade vara vapenvila mellan de två för stunden.
+
+Hennes tankar gick till Jennas reaktion när Teodor bryskt hade släppt ryggsäcken på betonggolvet. Tanken var att de skulle förstöra så mycket som möjligt av AgroNovas forskning och hade med sig ett antal verktyg, bland annat batteridrivna sågar och kapmaskiner

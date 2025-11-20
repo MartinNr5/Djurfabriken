@@ -1,0 +1,1 @@
+Konkurrent till AgroNova.

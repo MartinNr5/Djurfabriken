@@ -1,4 +1,4 @@
-Förrädare. Jobbar åt en konkurrent till AgroNova och har i snart ett års tid jobbat på sin täckmantel inom DBF för att kunna komma åt AgroNovas
+Förrädare. Jobbar åt en konkurrent till AgroNova och har i snart ett års tid jobbat på sin täckmantel inom DBF för att kunna komma åt AgroNovas hemligheter. Inte heller han vet dock hela sanningen utan tror att det bara är embryon för genetiskt modifierade djur han skall stjäla, inte att AgroNova har ett helt menageri med monster.
 
 | Ålder                                       |     |
 | ------------------------------------------- | --- |

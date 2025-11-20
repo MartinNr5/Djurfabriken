@@ -73,4 +73,8 @@ Zarah noterade med visst intresse hur Teodor verkade begrunda Emir i ärligheten
 
 När ingen opponerade sig vände hon sig resolut om och satte av samma väg de kommit från. Deras tunga kängor ekade dämpat mellan tunnelväggarna och rev upp dammet som precis hade hunnit lägga sig till ro runt deras fotavtryck. Zarah var inte förvånad över att Emir höll sig på behörigt avstånd från Teodor, även om det verkade vara vapenvila mellan de två för stunden.
 
-Hennes tankar gick till Jennas reaktion när Teodor bryskt hade släppt ryggsäcken på betonggolvet. Tanken var att de skulle förstöra så mycket som möjligt av AgroNovas forskning och hade med sig ett antal verktyg, bland annat batteridrivna sågar och kapmaskiner
+Hennes tankar gick i stället till Jennas reaktion när Teodor bryskt hade släppt ryggsäcken på betonggolvet. Tanken var att de skulle förstöra så mycket som möjligt av AgroNovas forskning och hade med sig ett antal verktyg, bland annat batteridrivna sågar och kapmaskiner för att vara säkra på att göra ordentlig skada, men om de inte tålde en vådligare törn än så kunde de inte vara några verktyg värda att ha.
+
+Nu när hon tänkte på det var det lite underligt att Jenna envisats med att packa ryggsäcken själv, innan resten av gänget hade slutit upp utanför tunnelmynningen. Jenna hade alltid slagit Zarah som en klipsk men lite väl idealistisk person, som förmodligen var bättra på att posta uppmaningar i sociala medier än att göra faktisk skillnad. 
+
+Förslaget att angripa AgroNova hade kommit från Rickard, av alla personer, men Jenna hade inte tvekat länge innan hon hoppade på idén med full energi. 

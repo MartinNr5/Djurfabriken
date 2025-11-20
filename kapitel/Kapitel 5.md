@@ -51,4 +51,16 @@ Han hade inte varit med i gruppen tillräckligt länge för att veta hur illa Te
 
 "Jo, men nu är vi ju flera stycken som tillsammans har pluggat in instruktionerna och den ganska rudimentära karta vi fått."
 
-Teodor lade hastigt ifrån sig sin ryggsäck med ett ljudligt klonkande som 
+Teodor lade hastigt ifrån sig sin ryggsäck med ett ljudligt klonkande som fick Jenna att hoppa till och tog ett steg mot Emir.
+
+"Nu låter det nästan som om du tycker att Rickard inte är kompetent nog att förse oss med instruktioner och en karta som är tillräckligt exakta för att vi skall hitta dit vi skall."
+
+Emir verkade omgående insett att han trampat i ett klaver av gigantiska proportioner. Han slickade sig nervöst om läpparna.
+
+"Eh... Alltså... Nä, då uttryckte jag mig slarvigt."
+
+Teodor tog ännu ett steg och tornade nu över Emir som med sina futtiga 169 centimeter i strumplästen nådde Teodor ungefär till nästippen.
+
+"Hur menar du då?"
+
+"Jo,  Rickard är ju bara en person som under varit tvungen att pussla"

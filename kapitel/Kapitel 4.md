@@ -16,14 +16,15 @@ meo-location:
 # Extern konflikt
 Ingen
 # Inre konflikt
-Gabriel vill inte vara med sin familj, han 
+Gabriel vill inte vara med sin familj, han funderar på om det är rätt att "låna" centrifugen, han skäms över sin otrohet.
 # Karaktärspåverkan
-
+Vi får veta att Gabriel är ambitiös, ohederlig mot sin fru, opålitlig, ambitiös, självgod
 # Förflyttning av handling
-
+Gabriel lyckas hacka säkerhetskamerorna
 # Beslut tagna
-
+Gabriel bestämmer sig för att stjäla centrifugen
 %%
+
 Det var få saker Gabriel uppskattade mer än lugn och ro. Gudarna skall veta att det fick han inget av hemmavid. Ungarna gapade om än det ena, än det andra - som om han inte också haft en jobbig dag - och Sofia tog såklart deras parti. Hur förväntade hon sig att han skulle hjälpa till när hann befann sig 20 meter under jorden, mitt i värmländska skogarna, utan tillgång till telefon eller Internet?
 
 Även om han hade kunnat kontakta scouterna, eller teaterkollektivet, eller bandytränaren, eller simskolan, eller vad tusan det var de höll på med den här veckan, skulle han inte kunna bidra med något matnyttigt. De hade ju sedan länge kommit överens om att hon skötte barnen så såg han till att det alltid fanns mat på bordet och tak över huvudet. 

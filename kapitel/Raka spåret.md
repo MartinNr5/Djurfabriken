@@ -25,6 +25,8 @@ Emirs känslor för Jenna, gruppens misstro på Rickards information.
 Vi får mer information om Emirs känslor för Jenna, han visar på sin kompetens.
 # Förflyttning av handling
 Gruppen kommer vidare in i tunneln.
+# Beslut tagna
+! Inga
 %%
 
 Emir höll krampaktigt om bultsaxen. Det var nu eller aldrig. Om resten av gruppen skulle ta honom på allvar fick han fan inte banga nu. Det var en grej att snacka om hur viktigt det var med human behandling av djur och en helt annan att bryta sig in på AgroNovas område.

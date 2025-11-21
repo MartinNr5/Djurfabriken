@@ -17,11 +17,13 @@ meo-intensity: "1"
 # Extern konflikt
 Carolina dyker upp precis när Rickard skall låsa.
 # Inre konflikt
-
+Osäker på om han skall möta gruppen och förvarna dem eller inte.
 # Karaktärspåverkan
-
+Vi ser att Rickard inte är särskilt skarp.
 # Förflyttning av handling
-
+Carolina dyker upp och komplicerar situationen, Rickard lämnar sin post.
+# Beslut tagna
+Rickard beslutar att möta upp gruppen.
 %%
 "Trevlig helg!"
 

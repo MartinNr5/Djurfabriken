@@ -4,18 +4,19 @@ aat-event-end-date:
 aat-render-enabled: "true"
 timelines:
 tags:
+meo-pov:
+meo-intensity:
+meo-location:
 ---
 %% 
-# Information
-POV: **Emir**
-Intensitet: **2**
-Plats: **Utanför AgroNovas HK**
-## Extern konflikt
+# Extern konflikt
 
-## Inre konflikt
+# Inre konflikt
 
-## Karaktärspåverkan
+# Karaktärspåverkan
 
-## Förflyttning av handling
+# Förflyttning av handling
+
+# Beslut tagna
 
 %%

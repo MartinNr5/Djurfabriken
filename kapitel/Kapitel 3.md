@@ -12,12 +12,13 @@ meo-intensity: "1"
 ---
 %% 
 ## Extern konflikt
-
+Ingen
 ## Inre konflikt
-
+Uttråkad, drömmer om att göra karriär, avundsjuk på Liesen
 ## Karaktärspåverkan
-
+Vi får veta att Carolina är ambitiös, svartsjuk, och småaktig
 ## Förflyttning av handling
+Carolina 
 
 %%
 Carolina hade en tillräckligt dålig dag utan att korkade vakter ifrågasatte varför hon valde att jobba på midsommar. Hon kunde inte bry sig mindre om vad för anledning han att jobba på midsommar så vad ankom det honom vad för orsak hon hade att välja bort midsommarfirandet?

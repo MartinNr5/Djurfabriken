@@ -27,4 +27,7 @@ Först efter att ha vandrat runt hela plan 1, vilket tog längre tid än Carolin
 
 Eller, jo, det gick det - alldeles för många gav sig på det nu för tiden - men det går inte att gå vinnande ur ett argument med fakta.
 
-Korridorerna var nätt och jämt upplysta. Företaget var inte sena med att anamma det senaste i teknologi
+Korridorerna var nätt och jämt upplysta och även om hon hade vandrat här ett par gånger var det inte helt enkelt att hitta till his. Företaget var inte sena med att anamma det senaste i teknologi och vad hon mindes från sin introduktion var hela byggnaden "smart". I teorin innebar det att fiffiga system och AI konstant lärde sig hur personal rörde sig i lokalerna, när utrustning användes, hur mycket ström, kyla, värme och vatten som gick åt, och mycket mer som tydligen var vitalt för att AgroNova inte skulle tvärstanna.
+
+I praktiken innebar det att det så gott som aldrig var tänt där det borde vara det, att det var kallt när alla redan frös, och vice versa, samt att de konstant fick frågor från underhåll varför de gjort av med ovanligt mycket ström den här månaden. Hade de kanske glömt någon av sin utrustning på?
+

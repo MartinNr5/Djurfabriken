@@ -19,11 +19,11 @@ Plats: **Utanför AgroNovas HK**
 ## Extern konflikt
 Måste ta sig igenom en låst dörr.
 ## Inre konflikt
-
+Emirs känslor för Jenna, gruppens misstro på Rickards information.
 ## Karaktärspåverkan
-
+Vi får mer information om Emirs känslor för Jenna, han visar på sin kompetens.
 ## Förflyttning av handling
-
+Gruppen kommer vidare in i tunneln.
 %%
 
 Emir höll krampaktigt om bultsaxen. Det var nu eller aldrig. Om resten av gruppen skulle ta honom på allvar fick han fan inte banga nu. Det var en grej att snacka om hur viktigt det var med human behandling av djur och en helt annan att bryta sig in på AgroNovas område.
@@ -72,13 +72,15 @@ Jenna stannade framför den och gav ifrån sig ett missnöjt läte.
 
 Dagarna innan aktionen hade främst Emir och Jenna pluggat in kartan över kulverten och beskrivningen Rickard gett dem för att hitta fram till rätt dörr. De hade spenderat mycket tid med att studera kartan och sedan testa varandras kunskap, något Emir inte hade något emot och kanske att Jenna också hade uppskattat hans sällskap.
 
-Forskningsanstalten skulle kunna fylla ett helt köpcenter till ytan och han hoppades. Förutsatt att de kom så långt det vill säga. Med kartan färskt i minne kunde han säga med säkerhet att en dörr skulle de inte stöta på innan de kom fram till anstalten.
+Forskningsanstalten skulle kunna fylla ett helt köpcenter till ytan och han hoppades innerligt att instruktionerna Rickard försett dem med skulle räcka till. Förutsatt att de kom så långt det vill säga. På kartan fanns ingen dörr inritad.
 
 Jenna vände sig om mot Zarah.
 
 “Det här kom minst sagt som en överraskning.” Det gick inte att ta miste på frustrationen i hennes röst, även om hon tydligt försökte dölja den.
 
-“Jag vet inte vad jag skall säga, Jenna. Varför Rickard inte har med dörren i sin karta kan jag inte svara på, men kanske att han trots allt inte fick tillgång till så mycket information han trodde.”
+Teodor ryckte på sina breda axlar.
+
+“Jag kan inte svara på varför Rickard inte har med dörren i sin karta. Kanske att just den här tunneln är oanvänd och dåligt dokumenterad.”
 
 Jens anslöt sig till samtalet.
 
@@ -94,7 +96,7 @@ Han gav henne ett förläget leende, nickade kort, och vände sig mot porten. De
 
 En närmare inspektion avslöjade en panel på höger sida, vilket gav honom lite mer hopp då ett eventuellt lås borde finnas på motsatt sida från gångjärnen. Panelen var fäst med en så kallad säkerhetsskruv som försvårade demontering.
 
-Efter en kort genomsökning av ryggsäcken hittade han sitt set med bits och mejslar. Lika snabbt hade han hittat det bits som passade skruvskallen. Inte helt oväntat var dock skruvarna lika åtgångna av rost som resten av dörren. Tur i oturen var att den typ av skruv som användes för att försvåra arbetet med att ta av panelen samtidigt erbjöd riktigt bra fäste för skruvmejseln.
+Efter en kort genomsökning av sin ryggsäck hittade han sitt set med bits och mejslar. Lika snabbt hade han hittat det bits som passade skruvskallen. Inte helt oväntat var dock skruvarna lika åtgångna av rost som resten av dörren. Tur i oturen var att den typ av skruv som användes för att försvåra arbetet med att ta av panelen samtidigt erbjöd riktigt bra fäste för skruvmejseln.
 
 Trots det mäktade inte Emir med att rubba en enda skruv. Uppgivet vände han sig till Teodor.
 

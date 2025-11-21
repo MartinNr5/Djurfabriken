@@ -7,23 +7,21 @@ tags:
   - Gabriel
   - MC
 meo-pov:
-  - Emir
+  - Gabriel
 meo-intensity: "1"
 meo-location:
-  - Tunneln under AgroNova
+  - Hemliga labbet, plan 2
 ---
 %% 
-# Information
-POV: **Gabriel**
-Intensitet: **2**
-Plats: **Skunkworks-labbet**
-## Extern konflikt
+# Extern konflikt
+Ingen
+# Inre konflikt
+Gabriel vill inte vara med sin familj, han 
+# Karaktärspåverkan
 
-## Inre konflikt
+# Förflyttning av handling
 
-## Karaktärspåverkan
-
-## Förflyttning av handling
+# Beslut tagna
 
 %%
 Det var få saker Gabriel uppskattade mer än lugn och ro. Gudarna skall veta att det fick han inget av hemmavid. Ungarna gapade om än det ena, än det andra - som om han inte också haft en jobbig dag - och Sofia tog såklart deras parti. Hur förväntade hon sig att han skulle hjälpa till när hann befann sig 20 meter under jorden, mitt i värmländska skogarna, utan tillgång till telefon eller Internet?

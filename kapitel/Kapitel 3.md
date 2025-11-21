@@ -5,7 +5,8 @@ aat-render-enabled: "true"
 timelines:
 tags:
   - MC
-meo-location: Labbet, plan 2
+meo-location:
+  - Labbet, plan 1
 meo-pov:
   - Carolina
 meo-intensity: "1"
@@ -18,7 +19,9 @@ Uttråkad, drömmer om att göra karriär, avundsjuk på Liesen
 ## Karaktärspåverkan
 Vi får veta att Carolina är ambitiös, svartsjuk, och småaktig
 ## Förflyttning av handling
-Carolina 
+Vi får information om att Gabriel behöver en centrifug, Carolina bestämmer sig för att leta reda på Gabriels labb
+# Beslut tagna
+Carolina bestämmer sig för att leta reda på Gabriels labb
 
 %%
 Carolina hade en tillräckligt dålig dag utan att korkade vakter ifrågasatte varför hon valde att jobba på midsommar. Hon kunde inte bry sig mindre om vad för anledning han att jobba på midsommar så vad ankom det honom vad för orsak hon hade att välja bort midsommarfirandet?

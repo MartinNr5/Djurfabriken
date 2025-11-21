@@ -49,5 +49,9 @@ Någon minut senare hade appen kalibrerat sensorn den använde för att känna a
 
 Ofrivilligt gled tankarna in på Jakob. Fan ta honom. Han var inte värd att lägga bråkdelen av en sekund på längre och hon tvingade sig att flytta fokus till något annat, vad som helst. Närmast till hands stod uppenbarligen alla tester hon katalogiserat och hon kunde inte låta bli att skratta till. Det hade hon minsann inga problem med att komma ihåg.
 
-Efter vad som kändes som en evighet hade hon lyckats ta sig tillbaka till en korridoren hon faktiskt könde igen. Kartan som sakta växte fram i appen ledde in henne på rätt spår när hon svängde av en gång för mycket eller gick för långt i ett visst väderstreck. Risken fanns att hon aldrig skulle bli bättre på att hitta om hon förlitade sig på hjälpmedel hela tiden men i det här fallet ansåg hon det befogat.
+Kartan som sakta växte fram i appen ledde henne på rätt spår när hon svängde av en gång för mycket eller gick för långt i ett visst väderstreck och efter vad som kändes som en evighet hade hon lyckats ta sig tillbaka till en korridor hon faktiskt kände igen. I slutet av den svängde man till höger för att komma ut i huvudkorridoren som i sin tur ledde till henne labb, och tillika hissarna.
+
+Risken fanns att hon aldrig skulle bli bättre på att hitta om hon förlitade sig på hjälpmedel hela tiden men i det här fallet ansåg hon det befogat. Alternativet hade varit att ringa efter den dryga vakten och om hon tänkte efter så var det nog fasen bättre att svälta ihjäl i en skrubb än att bli ledsagad till friheten av honom.
+
+Hon svängde runt hörnet av korridoren och höll på att krocka med en vettskrämd man i labbrock och övre medelåldern. Bakom hans rektangulära glasögon och under imponerande buskiga ögonbryn s
 

@@ -27,7 +27,11 @@ Först efter att ha vandrat runt hela plan 1, vilket tog längre tid än Carolin
 
 Eller, jo, det gick det - alldeles för många gav sig på det nu för tiden - men det går inte att gå vinnande ur ett argument med fakta.
 
-Korridorerna var nätt och jämt upplysta och även om hon hade vandrat här ett par gånger var det inte helt enkelt att hitta till his. Företaget var inte sena med att anamma det senaste i teknologi och vad hon mindes från sin introduktion var hela byggnaden "smart". I teorin innebar det att fiffiga system och AI konstant lärde sig hur personal rörde sig i lokalerna, när utrustning användes, hur mycket ström, kyla, värme och vatten som gick åt, och mycket mer som tydligen var vitalt för att AgroNova inte skulle tvärstanna.
+Det var sällan hon befann sig i den här delen av byggnaden vilket gjorde det till mer av en utmaning att hitta till hissarna än vad det borde vara. Hon försökte tänka efter. Skulle hon ta höger här framme och sedan rakt fram till nästa t-kors? Eller var det här hon skulle fortsätta rakt fram till ett t-kors och höger i det?
 
-I praktiken innebar det att det så gott som aldrig var tänt där det borde vara det, att det var kallt när alla redan frös, och vice versa, samt att de konstant fick frågor från underhåll varför de gjort av med ovanligt mycket ström den här månaden. Hade de kanske glömt någon av sin utrustning på?
+Den i det närmaste obefintliga belysningen gjorde det inte bättre. Företaget var inte sena med att anamma det senaste i teknologi och vad hon mindes från sin introduktion var hela byggnaden "smart". I teorin innebar det att fiffiga system och AI konstant lärde sig hur personal rörde sig i lokalerna, när utrustning användes, hur mycket ström, kyla, värme och vatten som gick åt, och mycket mer som tydligen var vitalt för att AgroNova inte skulle tvärstanna.
+
+I praktiken innebar det att det så gott som aldrig var tänt där det borde vara det, att det var kallt när alla redan frös, och vice versa, samt att de konstant fick frågor från underhåll varför de gjort av med ovanligt mycket ström den här månaden. Hade de kanske glömt någon av sin utrustning på? Kunde de tänka sig att fundera en extra gång på om de verkligen behövde köra "apparaterna" så ofta som de gjorde?
+
+Ok, här hade hon garanterat kommit från vänster, 
 

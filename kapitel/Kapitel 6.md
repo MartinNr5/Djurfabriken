@@ -47,4 +47,4 @@ Någon minut senare hade appen kalibrerat sensorn den använde för att känna a
 
 Ofrivilligt gled tankarna in på Jakob. Fan ta honom. Han var inte värd att lägga bråkdelen av en sekund på längre och hon tvingade sig att flytta fokus till något annat, vad som helst. Närmast till hands stod uppenbarligen alla tester hon katalogiserat och hon kunde inte låta bli att skratta till. Det hade hon minsann inga problem med att komma ihåg.
 
-Efter vad som kändes som en evighet hade hon lyckats 
+Efter vad som kändes som en evighet hade hon lyckats ta sig tillbaka till huvudkorridoren. Kartan som sakta växte fram i appen ledde in henne på rätt spår när hon svängde av en gång för mycket eller gick för långt i ett visst väderstreck. 

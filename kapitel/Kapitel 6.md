@@ -35,7 +35,11 @@ I praktiken innebar det att det så gott som aldrig var tänt där det borde var
 
 Ok, här hade hon garanterat kommit från vänster, hon kände väl igen dubbeldörrarna in till sin sektion av labbet. På andra sidan dörrarna fanns det inte en endaste pinal som passade med hennes minnesbild. 
 
-"Tänk efter, du är för smart för att gå vilse i ditt eget labb." sade hon till brandsläckaren som hängde på väggen framför henne. "AgroNova lär ju inte ha byggt ett helt våningsplan totalt slumpmässigt. Det går alltid att hitta ett mönster om man bara är observant nog."
+"Vi har pratat om det här, du är för smart för att gå vilse i ditt eget labb." sade hon till brandsläckaren som hängde på väggen framför henne. "AgroNova lär ju inte ha byggt ett helt våningsplan totalt slumpmässigt. Det går alltid att hitta ett mönster om man bara är observant nog."
 
-Eftersom korridoren på andra sidan dörrarna var t
+Eftersom korridoren på andra sidan dörrarna var totalt främmande vände hon på klacken och gick tillbaka samma väg hon kom. Nu gällde det bara att minnas hur hon hade hittat till de här jäkla dörrarna. 
+
+Tio minuter senare var hon tillbaka till samma uppsättning dörrar. 
+
+Hon stannad till och tog ett djupt andetag. Bevisligen var hennes minne fullständigt opålitligt. Alltså måste hon förlita sig på något annat för att hjälpa henne komma ihåg vilken väg hon tagit.. 
 

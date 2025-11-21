@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: Översikt av kapitel
+    filters:
+      and:
+        - file.folder == "kapitel"
+        - file.name != "Index"
+        - file.name != "manuscript"
+    order:
+      - file.name
+      - meo-intensity
+      - meo-pov

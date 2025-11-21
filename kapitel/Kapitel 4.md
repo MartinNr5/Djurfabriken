@@ -6,6 +6,11 @@ timelines:
 tags:
   - Gabriel
   - MC
+meo-pov:
+  - Emir
+meo-intensity: "1"
+meo-location:
+  - Tunneln under AgroNova
 ---
 %% 
 # Information

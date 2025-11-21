@@ -10,19 +10,20 @@ tags:
   - Zarah
   - Teodor
   - Jens
+meo-pov:
+  - Emir
+meo-intensity: "1"
+meo-location:
+  - Tunneln under AgroNova
 ---
 %% 
-# Information
-POV: **Emir**
-Intensitet: **2**
-Plats: **Utanför AgroNovas HK**
-## Extern konflikt
+#  Extern konflikt
 Måste ta sig igenom en låst dörr.
-## Inre konflikt
+# Inre konflikt
 Emirs känslor för Jenna, gruppens misstro på Rickards information.
-## Karaktärspåverkan
+# Karaktärspåverkan
 Vi får mer information om Emirs känslor för Jenna, han visar på sin kompetens.
-## Förflyttning av handling
+# Förflyttning av handling
 Gruppen kommer vidare in i tunneln.
 %%
 

@@ -4,6 +4,11 @@ aat-event-end-date:
 aat-render-enabled: "true"
 timelines:
 tags:
+meo-pov:
+  - Emir
+meo-intensity: "1"
+meo-location:
+  - Tunneln under AgroNova
 ---
 %% 
 # Information

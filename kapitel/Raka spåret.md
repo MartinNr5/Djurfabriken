@@ -17,7 +17,7 @@ POV: **Emir**
 Intensitet: **2**
 Plats: **Utanför AgroNovas HK**
 ## Extern konflikt
-
+Måste ta sig igenom en låst dörr.
 ## Inre konflikt
 
 ## Karaktärspåverkan
@@ -64,15 +64,15 @@ En svag rännil av vatten, grumligt med jord och rester från skogen utanför oc
 
 Zarah och Jens följde efter Emir och Teodor tog plats sist i ledet. Rickards rapportering efter cirka tre månader som säkerhetsvakt på AgroNova indikerade att just den här kulverten övervakades inte med mer än det larm som Emir hade kringgått, något han fann underligt.
 
-AgroNova var marknadsledande inom avancerad djurhållning, biotekniska lösningar för jordbruk, och utveckling av genetiskt modifierad boskap så de borde vara mycket mer noggranna med sin säkerhet. _Nåväl_, tänkte Emir, _jag skall inte skåda en given häst i munnen, även om den är genmodifierad._
+AgroNova var marknadsledande inom genmodifierat boskapsfoder så de borde vara mycket mer noggranna med sin säkerhet. Nåväl, fanns ingen anledning till att inte skåda en given häst i munnen, även om den är uppfödd på muterad havre.
 
 Inte mer än kanske tjugo meter stötte de på en bastant port av järn. Rostig och åsatt av tidens tand, säkert tjugofem år gammal, men lika bastant för det.
 
 Jenna stannade framför den och gav ifrån sig ett missnöjt läte.
 
-Dagarna innan aktionen hade främst Emir och Jenna pluggat in kartan, dels den över kulverten, dels den över lokalerna. De hade spenderat mycket tid med att studera kartan och sedan testa varandras kunskap, något Emir inte hade något emot och kanske att Jenna också hade uppskattat hans sällskap.
+Dagarna innan aktionen hade främst Emir och Jenna pluggat in kartan över kulverten och beskrivningen Rickard gett dem för att hitta fram till rätt dörr. De hade spenderat mycket tid med att studera kartan och sedan testa varandras kunskap, något Emir inte hade något emot och kanske att Jenna också hade uppskattat hans sällskap.
 
-Det var smått imponerande hur stor forskningsanstalten var och utan kartan skulle de vara hopplöst vilse. Förutsatt att de kom så långt det vill säga. Med kartan färskt i minne kunde han säga med säkerhet att en dörr skulle de inte stöta på innan de kom fram till anstalten.
+Forskningsanstalten skulle kunna fylla ett helt köpcenter till ytan och han hoppades. Förutsatt att de kom så långt det vill säga. Med kartan färskt i minne kunde han säga med säkerhet att en dörr skulle de inte stöta på innan de kom fram till anstalten.
 
 Jenna vände sig om mot Zarah.
 

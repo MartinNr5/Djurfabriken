@@ -3,8 +3,10 @@ aat-event-start-date:
 aat-event-end-date:
 aat-render-enabled: "true"
 timelines:
+  - centrifugen
 tags:
   - MC
+  - Carolina
 meo-location:
   - Labbet, plan 1
 meo-pov:

@@ -3,7 +3,14 @@ aat-event-start-date:
 aat-event-end-date:
 aat-render-enabled: "true"
 timelines:
+  - ryggsäcken
 tags:
+  - Emir
+  - Jens
+  - Jenna
+  - MC
+  - Teodor
+  - Zarah
 meo-pov:
   - Zarah
 meo-intensity: "1"
@@ -16,12 +23,13 @@ Vill inte stöta sig med Teodor.
 # Inre konflikt
 ! Ingen?
 # Karaktärspåverkan
-Vi får veta att Zarah är avundsjuk på Jennas utseende och hennes framgång, att hon anser sig själv vara ful
+Vi får veta att Zarah är avundsjuk på Jennas utseende och hennes framgång, att hon anser sig själv vara ful, att hon anser sig vara lite klipskare än de andra.
 # Förflyttning av handling
 Vi etablerar att Teodor har kort stubin om man baktalar Rickard, han och Emir inte är bästa vänner just nu.
 # Beslut tagna
-Zarah bestämmer sig för att undersöka Teodors ryggsäck för att se varf Jenns
+Zarah bestämmer sig för att undersöka Teodors ryggsäck för att se varför Jenna är så rädd om den, gruppen beslutar sig för att vända om och gå en annan väg.
 %%
+
 Ju längre in de kom i tunnlarna desto oroligare blev Zarah att Rickards uppgifter inte var helt korrekta. Han var ju inte direkt Mensa-material om man säger så. Med så här många krökar och korsningar av alla de slag var det extremt osannolikt att Rickard hade lyckats pussla ihop en fungerande karta.
 
 Problemet var att han och Teodor var barndomskamrater och en av de få saker som retade upp Teodor var när man pratade illa om hans vänner. Det och om man antydde att han var korkad, vilket han inte var men det var inte så konstigt om han gav det intrycket.

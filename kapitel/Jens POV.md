@@ -4,6 +4,9 @@ aat-event-end-date:
 aat-render-enabled: "true"
 timelines:
 tags:
+  - Jens
+  - Okänd
+  - MC
 meo-pov:
   - Jens
 meo-intensity: "2"
@@ -12,13 +15,15 @@ meo-location:
 ---
 %% 
 # Extern konflikt
-
+Emir och Teodor saboterar nästan hela uppdraget.
 # Inre konflikt
-
+Han är otålig att komma fram till labbet.
 # Karaktärspåverkan
-
+Ingen, vi vet inte att det är Jens.
 # Förflyttning av handling
-
+Vi får veta att det finns en dubbelagent i gruppen.
+# Beslut tagna
+Han skall försöka använda konflikten mellan Emir och Teodor när de kommer fram till labbet för att ställa till med förvirring.
 %%
 
 Inte ens en timme in i uppdraget och allting höll på att gå åt pipan. Den där klåparen Emir fattade i alla fall snabbt nog att han skall passa sig för att reta upp Brutus om han inte vill bli utburen på bår. Frågan är hur långt konflikten hade gått om Emir inte hade greppat situationen så snabbt som han gjorde.

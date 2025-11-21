@@ -35,11 +35,12 @@ I praktiken innebar det att det så gott som aldrig var tänt där det borde var
 
 Ok, här hade hon garanterat kommit från vänster, hon kände väl igen dubbeldörrarna in till sin sektion av labbet. På andra sidan dörrarna fanns det inte en endaste pinal som passade med hennes minnesbild. 
 
-"Vi har pratat om det här, du är för smart för att gå vilse i ditt eget labb." sade hon till brandsläckaren som hängde på väggen framför henne. "AgroNova lär ju inte ha byggt ett helt våningsplan totalt slumpmässigt. Det går alltid att hitta ett mönster om man bara är observant nog."
+"Vi har pratat om det här, du är för smart för att gå vilse, och framförallt i ditt eget labb." sade hon till brandsläckaren som hängde på väggen framför henne. "AgroNova lär ju inte ha byggt ett helt våningsplan med slumpen som arkitekt. Det går alltid att hitta ett mönster om man bara är observant nog. Så sätt igång att observera."
 
-Eftersom korridoren på andra sidan dörrarna var totalt främmande vände hon på klacken och gick tillbaka samma väg hon kom. Nu gällde det bara att minnas hur hon hade hittat till de här jäkla dörrarna. 
+Eftersom korridoren på andra sidan dörrarna var totalt främmande vände hon på klacken och gick tillbaka samma väg hon kom. Nu gällde det bara att minnas hur hon hade hittat till de här jäkla dörrarna och följa det spåret fast baklänges. 
 
-Tio minuter senare var hon tillbaka till samma uppsättning dörrar. 
+Fem minuter senare var hon tillbaka till samma uppsättning dörrar. 
 
-Hon stannad till och tog ett djupt andetag. Bevisligen var hennes minne fullständigt opålitligt. Alltså måste hon förlita sig på något annat för att hjälpa henne komma ihåg vilken väg hon tagit.. 
+Hon stannade till och tog ett djupt andetag. Bevisligen var hennes minne fortfarande opålitligt. Motvilligt tog hon fram sin telefon och öppnade MapMySteps. Allt arbete hon hade gjort för att bli bättre på att hitta var tydligen ogjort. I alla fall i den här miljön. 
 
+Någon minut senare hade appen kali

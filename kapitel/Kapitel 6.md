@@ -31,7 +31,9 @@ Det var sällan hon befann sig i den här delen av byggnaden vilket gjorde det t
 
 Den i det närmaste obefintliga belysningen gjorde det inte bättre. Företaget var inte sena med att anamma det senaste i teknologi och vad hon mindes från sin introduktion var hela byggnaden "smart". I teorin innebar det att fiffiga system och AI konstant lärde sig hur personal rörde sig i lokalerna, när utrustning användes, hur mycket ström, kyla, värme och vatten som gick åt, och mycket mer som tydligen var vitalt för att AgroNova inte skulle tvärstanna.
 
-I praktiken innebar det att det så gott som aldrig var tänt där det borde vara det, att det var kallt när alla redan frös, och vice versa, samt att de konstant fick frågor från underhåll varför de gjort av med ovanligt mycket ström den här månaden. Hade de kanske glömt någon av sin utrustning på? Kunde de tänka sig att fundera en extra gång på om de verkligen behövde köra "apparaterna" så ofta som de gjorde?
+I praktiken innebar det att det så gott som aldrig var tänt där det borde vara det, att det var kallt när alla redan frös, och vice versa, samt att de konstant fick frågor från Underhåll varför de gjort av med ovanligt mycket ström den här månaden. Hade de kanske glömt någon av sin utrustning på? Kunde de tänka sig att fundera en extra gång på om de verkligen behövde köra "apparaterna" så ofta som de gjorde?
+
+Jodå, inga problem. Att kasta bort miljoner i misslyckade försök så att Underhåll kunde rapportera att elförbrukningen låg i linje med vad ett synnerligen förvirrad AI tyckte var väl spenderade pengar. 
 
 Ok, här hade hon garanterat kommit från vänster, hon kände väl igen dubbeldörrarna in till sin sektion av labbet. På andra sidan dörrarna fanns det inte en endaste pinal som passade med hennes minnesbild. 
 
@@ -47,4 +49,5 @@ Någon minut senare hade appen kalibrerat sensorn den använde för att känna a
 
 Ofrivilligt gled tankarna in på Jakob. Fan ta honom. Han var inte värd att lägga bråkdelen av en sekund på längre och hon tvingade sig att flytta fokus till något annat, vad som helst. Närmast till hands stod uppenbarligen alla tester hon katalogiserat och hon kunde inte låta bli att skratta till. Det hade hon minsann inga problem med att komma ihåg.
 
-Efter vad som kändes som en evighet hade hon lyckats ta sig tillbaka till huvudkorridoren. Kartan som sakta växte fram i appen ledde in henne på rätt spår när hon svängde av en gång för mycket eller gick för långt i ett visst väderstreck. 
+Efter vad som kändes som en evighet hade hon lyckats ta sig tillbaka till en korridoren hon faktiskt könde igen. Kartan som sakta växte fram i appen ledde in henne på rätt spår när hon svängde av en gång för mycket eller gick för långt i ett visst väderstreck. Risken fanns att hon aldrig skulle bli bättre på att hitta om hon förlitade sig på hjälpmedel hela tiden men i det här fallet ansåg hon det befogat.
+

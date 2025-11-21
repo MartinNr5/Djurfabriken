@@ -33,5 +33,9 @@ Den i det närmaste obefintliga belysningen gjorde det inte bättre. Företaget 
 
 I praktiken innebar det att det så gott som aldrig var tänt där det borde vara det, att det var kallt när alla redan frös, och vice versa, samt att de konstant fick frågor från underhåll varför de gjort av med ovanligt mycket ström den här månaden. Hade de kanske glömt någon av sin utrustning på? Kunde de tänka sig att fundera en extra gång på om de verkligen behövde köra "apparaterna" så ofta som de gjorde?
 
-Ok, här hade hon garanterat kommit från vänster, 
+Ok, här hade hon garanterat kommit från vänster, hon kände väl igen dubbeldörrarna in till sin sektion av labbet. På andra sidan dörrarna fanns det inte en endaste pinal som passade med hennes minnesbild. 
+
+"Tänk efter, du är för smart för att gå vilse i ditt eget labb." sade hon till brandsläckaren som hängde på väggen framför henne. "AgroNova lär ju inte ha byggt ett helt våningsplan totalt slumpmässigt. Det går alltid att hitta ett mönster om man bara är observant nog."
+
+Eftersom korridoren på andra sidan dörrarna var t
 

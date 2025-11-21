@@ -6,22 +6,18 @@ timelines:
 tags:
 meo-pov:
   - Jens
-meo-intensity: "1"
+meo-intensity: "2"
 meo-location:
   - Tunneln under AgroNova
 ---
 %% 
-# Information
-POV: **Jens**
-Intensitet: **1**
-Plats: **I servicetunneln till AgroNova**
-## Extern konflikt
+# Extern konflikt
 
-## Inre konflikt
+# Inre konflikt
 
-## Karaktärspåverkan
+# Karaktärspåverkan
 
-## Förflyttning av handling
+# Förflyttning av handling
 
 %%
 
@@ -29,6 +25,4 @@ Inte ens en timme in i uppdraget och allting höll på att gå åt pipan. Den d�
 
 Det var extremt frustrerande att inte kunna leda gruppen raka spåret till ingången men då hade de fatta misstankar omedelbart. Oavsett hur bra information Rickard hade fått - via omvägar så klart - hade han inte lyckats få till en fungerande karta. Med lite tur skulle det gå att obemärkt leda gruppen tillbaka i rätt riktning.
 
-Förutsatt att ingen annan retar upp Teodor, även om det var osannolikt med tanke på vad som precis hade utspelat sig. Skulle det gå att utnyttja spänningen mellan Emir och Teodor? Ju mer kaos och förvirring det blir när det väl gäller desto enklare blir det att klara sig undan oskadd. 
-
-Med AgroNovas hemligheter i säkert förvar.
+Förutsatt att ingen annan retar upp Teodor, även om det var osannolikt med tanke på vad som precis hade utspelat sig. Skulle det gå att utnyttja spänningen mellan Emir och Teodor? Ju mer kaos och förvirring det blir när det väl gäller desto enklare blir det att klara sig undan inte bara med livet i behåll utan också AgroNovas mörkaste hemligheter.

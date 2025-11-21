@@ -14,13 +14,13 @@ meo-pov:
 meo-intensity: "1"
 ---
 %% 
-## Extern konflikt
+# Extern konflikt
+Carolina dyker upp precis när Rickard skall låsa.
+# Inre konflikt
 
-## Inre konflikt
+# Karaktärspåverkan
 
-## Karaktärspåverkan
-
-## Förflyttning av handling
+# Förflyttning av handling
 
 %%
 "Trevlig helg!"

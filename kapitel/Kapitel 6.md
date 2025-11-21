@@ -43,4 +43,8 @@ Fem minuter senare var hon tillbaka till samma uppsättning dörrar.
 
 Hon stannade till och tog ett djupt andetag. Bevisligen var hennes minne fortfarande opålitligt. Motvilligt tog hon fram sin telefon och öppnade MapMySteps. Allt arbete hon hade gjort för att bli bättre på att hitta var tydligen ogjort. I alla fall i den här miljön. 
 
-Någon minut senare hade appen kali
+Någon minut senare hade appen kalibrerat sensorn den använde för att känna av steg och förändring i riktning. Största begränsningen med appen är att man inte fick ha för bråttom. Rörde man sig fortare än raska promenadtakt räknade den fel på steg och blev även osäker på när man faktiskt svängde. Nåväl, det var ju inte direkt så att hon hade något bättre för sig.
+
+Ofrivilligt gled tankarna in på Jakob. Fan ta honom. Han var inte värd att lägga bråkdelen av en sekund på längre och hon tvingade sig att flytta fokus till något annat, vad som helst. Närmast till hands stod uppenbarligen alla tester hon katalogiserat och hon kunde inte låta bli att skratta till. Det hade hon minsann inga problem med att komma ihåg.
+
+Efter vad som kändes som en evighet hade hon lyckats 

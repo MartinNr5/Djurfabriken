@@ -75,4 +75,8 @@ Hon räckte över utskriften som hon utan att tänka på det plockat på sig men
 
 "Jaha ja, jo, Niklas ringde tidigare i dag och sade att han hade tänkt om. Arbetet jag håller på med är så vitalt för bolaget att det inte kunde vänta."
 
-Carolina kunde inte föreställa sig att Niklas skulle få för sig att 
+Carolina kunde inte föreställa sig att Niklas skulle göra helt om och få för sig att ringa på midsommaraftons morgon och ge Andreasson tillstånd att låna utrustningen men underligare saker har hänt.
+
+"Så pass. Då blir ju jag nyfiken på vad det är för arbete som är så viktigt att det innebär att jag inte kan slutföra det jag åkte in för att komma i kapp med."
+
+Hennes katalogisering klarade sig absolut utan en centrifug men Gabrielsson hade garanterat ingen koll på vad hon höll på med.

@@ -32,9 +32,9 @@ Zarah bestämmer sig för att undersöka Teodors ryggsäck för att se varför J
 
 Ju längre in de kom i tunnlarna desto oroligare blev Zarah att Rickards uppgifter inte var helt korrekta. Han var ju inte direkt Mensa-material om man säger så. Med så här många krökar och korsningar av alla de slag var det extremt osannolikt att Rickard hade lyckats pussla ihop en fungerande karta.
 
-Problemet var att han och Teodor var barndomskamrater och en av de få saker som retade upp Teodor var när man pratade illa om hans vänner. Det och om man antydde att han var korkad, vilket han inte var men det var inte så konstigt om han gav det intrycket.
+Till saken hör att Rickard var en av hans barndomskamrater och en av de få saker som retade upp Teodor var när man pratade illa om hans vänner. Det och om man antydde att han var korkad, vilket han inte var men det var inte så konstigt om han gav det intrycket.
 
-Närmare 2 meter lång och hälften så bred över axlarna men med ett ansikte som inte skulle vara malplacerat på en arton månaders bäbis, fullständigt befriat från all skäggväxt, och en glugg mellan de övre framtänderna man skulle kunna kila in det mesta av en kortlek mellan. Lägg till det ett ymnigt krull, mer otyglat än en kalv på grönbete, i prunkade rött och resultatet blir en individ som kunde vara tagen direkt ur en serietidning.
+Närmare 2 meter lång och hälften så bred men med ett ansikte som inte skulle vara malplacerat på en arton månaders bäbis, fullständigt befriat från all skäggväxt, och en glugg mellan de övre framtänderna man skulle kunna kila in det mesta av en kortlek mellan. Lägg till det ett ymnigt krull, mer otyglat än en kalv på grönbete, i prunkade rött och resultatet blir en individ som kunde vara tagen direkt ur en serietidning.
 
 "Hur ser det ut? Känner vi att vi börjar närma oss?" försökte hon sig försiktigt på. 
 
@@ -48,7 +48,7 @@ En av de få personer Teodor inte brusade upp mot var Jenna. Ingen visste riktig
 
 Svaga, kallvita LED-lampor gav tunneln ett nästan sjukligt intryck och den uppenbara bristen på underhåll gjorde inget för att mildra intrycket. Isolering som hängde slappt på rör som löpte längs med väggen, klistermärken som fallit av när limmet obönhörligen hade torkat, färg som flagnat på vad som tyckets vara precis varenda yta hon kunde se, och oväntat mycket damm.
 
-Den sträckte sig mycket riktigt säkert femtio-sextio meter bort innan den krökte av åt höger. Från tunnelns mynning hade de räknat ut att det var nästan en kilometer till dörren de skulle använda för att ta sig in i byggnaden men det var fågelvägen, vilket var raka motsatsen till den väg de faktiskt tagit.
+Den sträckte sig mycket riktigt säkert femtio-sextio meter bort innan den krökte av åt höger. Från tunnelns mynning hade de räknat ut att det var nästan en kilometer till dörren de skulle använda för att ta sig in i byggnaden men det var fågelvägen, raka motsatsen till den väg de faktiskt tagit.
 
 "Det verkar inte bättre." flikade Jens in. "Vi gick förbi en förgrening längre bort som kanske är den Rickard menade."
 
@@ -58,7 +58,7 @@ Den sträckte sig mycket riktigt säkert femtio-sextio meter bort innan den krö
 
 "Ingenting." var Zarah snabb att flika in och gav Emir en uppmanande blick.
 
-Han hade inte varit med i gruppen tillräckligt länge för att veta hur illa Teodor tog vid sig när någon baktalade hans vänner, och framför allt Rickard. Tyvärr verkade han fast besluten att ta reda på det.
+Han hade inte varit med i gruppen tillräckligt länge för att veta hur Teodor reagerade när någon baktalade hans vänner, och framför allt Rickard. Tyvärr verkade Emir fast besluten att ta reda på det.
 
 "Jo, men nu är vi ju flera stycken som tillsammans har pluggat in instruktionerna och den ganska rudimentära karta vi fått."
 

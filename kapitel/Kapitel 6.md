@@ -107,4 +107,4 @@ Det syntes tydligt att Professor Gabrielsson spenderar all sin tid i ett labb oc
 
 "Fast då är det garanterat inte samma typ av arkivering. Vi sysslar med med exempelvis transgena tekniker och homolog rekombination."
 
-Transgena tekniker och homolog rekombination? Kursprogrammet hade avhandlat det, om än på e
+Transgena tekniker och homolog rekombination? Kursprogrammet hade avhandlat det, om än på en bred och övergripande nivå, och även om det hade med genmodifiering att göra skulle det för den sakens skull inte krävas en centrifug för att 

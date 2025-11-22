@@ -103,4 +103,6 @@ Gabrielsson nickade entusiastiskt och bytte uppsyn från mild panik till uppenba
 
 "På så vis. Bara av ren nyfikenhet, jag sysslar själv med katalogisering och arkivering och har aldrig behövt en centrifug."
 
-Det syntes tydligt att Professor Gabrielsson spenderar all sin tid i ett labb och ingen utomhus men på något vis lyckades han bli ännu blekare i synen. Ansiktsuttrycket hoppade över mild panik för att landa på 
+Det syntes tydligt att Professor Gabrielsson spenderar all sin tid i ett labb och ingen utomhus men på något vis lyckades han bli ännu blekare i synen. Ansiktsuttrycket växlade tillbaka till mild panik.
+
+"Fast då är det kanske inte samma typ av arkivering. Vi sysslar med med "

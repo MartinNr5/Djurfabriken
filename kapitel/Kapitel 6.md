@@ -67,7 +67,7 @@ Mannen framför henne såg fundersam ut för en kort sekund men tappade hakan s�
 
 "Eh, jaha, just det. Det förefaller mig som om att Krause inte informerat om att han tillfälligt lånar ut lite utrustning för att säkerställa att jag kan slutföra mitt arbete."
 
-Så det här var professor Gabriel Andreasson. Föga förvånande påminde han om de professorer hon haft på universitetet. Till synes i ett konstant tillstånd av mild förvirring, klädd som om han exklusivt handlade sin kläder på Myrorna - gärna men en felknäppt knapp i koftan - och med antingen med en sedan länge kal hjässa eller en kalufs som inte sett en kam sedan barndomen. Andreasson stoltserade med det sistnämnda.
+Så det här var professor Gabriel Andreasson. Föga förvånande påminde han om de professorer hon haft på universitetet. Till synes i ett konstant tillstånd av mild förvirring, klädd som om han exklusivt handlade sin kläder på Myrorna - gärna en felknäppt knapp i koftan - och med antingen med en sedan länge kal hjässa eller en kalufs som inte sett en kam sedan barndomen. Andreasson stoltserade med det sistnämnda.
 
 "Intressant. Det är inte så jag tolkar det här mailet han skickade till er så sent som i går eftermiddag."
 
@@ -93,7 +93,7 @@ Nu var det uppenbart att han drog en vals. Hennes bror jobbade som advokat med f
 
 "Låter som dryga böter om vi inte blir klara i tid?"
 
-Gabrielsson nickade entusiastiskt.
+Gabrielsson nickade entusiastiskt och bytte uppsyn från mild panik till uppenbart nervös.
 
 "Exakt så! Miljonbelopp i böter om vi inte hinner i tid."
 
@@ -103,3 +103,4 @@ Gabrielsson nickade entusiastiskt.
 
 "På så vis. Bara av ren nyfikenhet, jag sysslar själv med katalogisering och arkivering och har aldrig behövt en centrifug."
 
+Det syntes tydligt att Professor Gabrielsson spenderar all sin tid i ett labb och ingen utomhus men på något vis lyckades han bli ännu blekare i synen. Ansiktsuttrycket hoppade över mild panik för att landa på 

@@ -53,5 +53,10 @@ Kartan som sakta växte fram i appen ledde henne på rätt spår när hon sväng
 
 Risken fanns att hon aldrig skulle bli bättre på att hitta om hon förlitade sig på hjälpmedel hela tiden men i det här fallet ansåg hon det befogat. Alternativet hade varit att ringa efter den dryga vakten och om hon tänkte efter så var det nog fasen bättre att svälta ihjäl i en skrubb än att bli ledsagad till friheten av honom.
 
-Hon svängde runt hörnet av korridoren och höll på att krocka med en vettskrämd man i labbrock och övre medelåldern. Bakom hans rektangulära glasögon och under imponerande buskiga ögonbryn s
+Hon svängde runt hörnet av korridoren och höll på att krocka med en vettskrämd man i labbrock och övre medelåldern. Bakom hans rektangulära glasögon och under imponerande buskiga ögonbryn spärrade han upp ögonen i äkta chock. Framför sig knuffade han en vagn med en centrifug på. Hennes centrifug.
+
+"Jösses Amalia, vad du skräms!" fick mannen ur sig när han väl hade hämtat sig. "Vad gör du här?"
+
+"Du är den andra som frågar mig det på alldeles för kort tid. Jag jobbar här. Som laboratorieassistent i labb 24C." svarade hon med betoning på labbeteckningen och lade armarna i kors.
+
 

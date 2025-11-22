@@ -39,19 +39,19 @@ Jodå, inga problem. Att kasta bort miljoner i misslyckade försök så att Unde
 
 Ok, här hade hon garanterat kommit från vänster, hon kände väl igen dubbeldörrarna in till sin sektion av labbet. På andra sidan dörrarna fanns det inte en endaste pinal som passade med hennes minnesbild. 
 
-"Vi har pratat om det här, du är för smart för att gå vilse, och framförallt i ditt eget labb." sade hon till brandsläckaren som hängde på väggen framför henne. "AgroNova lär ju inte ha byggt ett helt våningsplan med slumpen som arkitekt. Det går alltid att hitta ett mönster om man bara är observant nog. Så sätt igång att observera."
+"Vi har pratat om det här, du är för smart för att gå vilse, och framförallt i ditt eget labb." sade hon till brandsläckaren som hängde på väggen framför henne. "AgroNova lär ju inte ha byggt ett helt våningsplan med slumpen som arkitekt."
 
-Hon vände på klacken och tittade tillbaka på samma väg hon kommit.  Rakt fram förbi två korridorer, nästa vänster, rakt fram förbi et fikarum av något slag, och sedan höger
+Hon vände på klacken och tittade tillbaka på samma väg hon kommit. Rakt fram förbi två korridorer, nästa vänster, rakt fram förbi et fikarum av något slag, och sedan höger så skulle hon vara tillbaka i huvudkorridoren.
 
-Fem minuter senare var hon tillbaka till samma uppsättning dörrar. 
+Fem minuter senare var hon tillbaka vid samma uppsättning okända dubbledörrar. 
 
-Hon stannade till och tog ett djupt andetag. Bevisligen var hennes minne fortfarande opålitligt. Motvilligt tog hon fram sin telefon och öppnade MapMySteps. Allt arbete hon hade gjort för att bli bättre på att hitta var tydligen ogjort. I alla fall i den här miljön. 
+Hon blundade och tog ett djupt andetag. Bevisligen var hennes minne inte så bra som hon hade hoppats på. Alla timmar och hårt arbete för att bli bättre på att komma tillrätta med det här problemet var tydligen bortkastade. Motvilligt tog hon fram sin telefon och öppnade MapMySteps.  
 
-Någon minut senare hade appen kalibrerat sensorn den använde för att känna av steg och förändring i riktning. Största begränsningen med appen är att man inte fick ha för bråttom. Rörde man sig fortare än raska promenadtakt räknade den fel på steg och blev även osäker på när man faktiskt svängde. Nåväl, det var ju inte direkt så att hon hade något bättre för sig.
+Någon minut senare hade appen kalibrerat sensorn den använde för att känna av steg och riktning. Den hade hjälpt henne hitta rätt otaliga gånger och begränsningen att man inte fick ha för bråttom var ett lågt pris att betala. Rörde man sig fortare än i rask promenadtakt räknade den fel på steg och blev osäker på när man bytte riktning. Nåväl, det var ju inte direkt så att hon hade något bättre för sig.
 
 Ofrivilligt gled tankarna in på Jakob. Fan ta honom. Han var inte värd att lägga bråkdelen av en sekund på längre och hon tvingade sig att flytta fokus till något annat, vad som helst. Närmast till hands stod uppenbarligen alla tester hon katalogiserat och hon kunde inte låta bli att skratta till. Det hade hon minsann inga problem med att komma ihåg.
 
-Kartan som sakta växte fram i appen ledde henne på rätt spår när hon svängde av en gång för mycket eller gick för långt i ett visst väderstreck och efter vad som kändes som en evighet hade hon lyckats ta sig tillbaka till en korridor hon faktiskt kände igen. I slutet av den svängde man till höger för att komma ut i huvudkorridoren som i sin tur ledde till henne labb, och tillika hissarna.
+Kartan som sakta växte fram i appen ledde henne på rätt spår om hon svängde av en gång för mycket eller gick för långt i ett visst väderstreck och efter vad som kändes som en evighet hade hon lyckats ta sig tillbaka till en korridor hon faktiskt kände igen. I slutet av den svängde man till höger för att komma ut i huvudkorridoren som i sin tur ledde till henne labb, och tillika hissarna.
 
 Risken fanns att hon aldrig skulle bli bättre på att hitta om hon förlitade sig på hjälpmedel hela tiden men i det här fallet ansåg hon det befogat. Alternativet hade varit att ringa efter den dryga vakten och om hon tänkte efter så var det nog fasen bättre att svälta ihjäl i en skrubb än att bli ledsagad till friheten av honom.
 

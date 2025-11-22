@@ -107,4 +107,14 @@ Det syntes tydligt att Professor Gabrielsson spenderar all sin tid i ett labb oc
 
 "Fast då är det garanterat inte samma typ av arkivering. Vi sysslar med med exempelvis transgena tekniker och homolog rekombination."
 
-Transgena tekniker och homolog rekombination? Kursprogrammet hade avhandlat det, om än på en bred och övergripande nivå, och även om det hade med genmodifiering att göra skulle det för den sakens skull inte krävas en centrifug för att 
+Transgena tekniker och homolog rekombination? Kursprogrammet hade avhandlat det, om än på en bred och övergripande nivå, och även om det hade med genmodifiering att göra skulle det för den sakens skull inte krävas en centrifug för att arkivera testresultat. Eller?
+
+"Nej, det är inte något jag jobbar med. Mitt fokus är genreglering med hjälp av RNAi."
+
+"Ah, då så, där har vi svaret! Om ni ursäktar så måste jag skynda mig så att jag hinner klart innan Krause är tillbaka på måndag."
+
+"Fick du bara låna den över midsommarhelgen?"
+
+"Eh, precis. Det var villkoret för att jag skulle få låna den."
+
+"Ok. Behöver du hjälp med att transportera"

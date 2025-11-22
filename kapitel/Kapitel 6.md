@@ -117,4 +117,16 @@ Transgena tekniker och homolog rekombination? Kursprogrammet hade avhandlat det,
 
 "Eh, precis. Det var villkoret för att jag skulle få låna den."
 
-"Ok. Behöver du hjälp med att transportera"
+Carolina gav honom sitt bästa ställa-in-sig-hos-läraren-leende.
+
+"Behöver du hjälp med att transportera den? Borde vara enklare om man är två. Framförallt om du skall in och ut ur hissen - för visst ligger ditt labb på plan 2?"
+
+"Tack det behövs inte, ni har som ni själva sade också mycket att stå i så jag vill inte ta upp er tid i onödan."
+
+"Det är absolut inget problem, tvärtom hjälper jag gärna till om det är så viktigt för företaget som du säger."
+
+"Tack, men jag måste som sagt var avböja. God midsommar." svarade Andreasson med flackande blick och började knuffa vagnen med centrifugen mot hissarna.
+
+"Detsamma. Lycka till med arkiveringen."
+
+Om hon skyndade sig till trapphuset borde hon hinna ner i tid för att ta reda på varför de

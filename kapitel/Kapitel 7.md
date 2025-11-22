@@ -26,4 +26,5 @@ Han funderade på att svänga förbi och kolla - hon var grann att se på - men 
 
 En kort sväng senare verkade det som om han faktiskt hört i syne och när han tänkte efter hade han hört en mans röst, och det visste han med säkerhet att det inte fanns några i byggnaden. 
 
-Enklast var att ta trapporna ner. Husets smarta system höll koll på när hissarna användes och det fanns ingen anledning att lämna fler spår efter sig än nödvändigt. Trapphuset övervakades i och för sig av kameror men han hade stängt av funktionen som sparar videoklipp på hårddisken 
+Enklast var att ta trapporna ner. Husets smarta system höll koll på när hissarna användes och det fanns ingen anledning att lämna fler spår efter sig än nödvändigt. Trapphuset övervakades i och för sig av kameror men det var mycket svårare att hitta ett par sekunder i en flera timmar lång inspelning.
+

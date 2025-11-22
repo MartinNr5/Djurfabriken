@@ -105,4 +105,6 @@ Gabrielsson nickade entusiastiskt och bytte uppsyn från mild panik till uppenba
 
 Det syntes tydligt att Professor Gabrielsson spenderar all sin tid i ett labb och ingen utomhus men på något vis lyckades han bli ännu blekare i synen. Ansiktsuttrycket växlade tillbaka till mild panik.
 
-"Fast då är det kanske inte samma typ av arkivering. Vi sysslar med med "
+"Fast då är det garanterat inte samma typ av arkivering. Vi sysslar med med exempelvis transgena tekniker och homolog rekombination."
+
+Carolina hade hö

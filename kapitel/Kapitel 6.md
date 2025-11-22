@@ -71,4 +71,8 @@ Så det här var professor Gabriel Andreasson. Föga förvånande påminde han o
 
 "Intressant. Det är inte så jag tolkar det här mailet han skickade till er så sent som i går eftermiddag."
 
-Hon räckte över utskriften som 
+Hon räckte över utskriften som hon utan att tänka på det plockat på sig men var glad att hon hade. Andreasson kastade en snabb blick på det, med en allt mer panikslagen blick.
+
+"Jaha ja, jo, Niklas ringde tidigare i dag och sade att han hade tänkt om. Arbetet jag håller på med är så vitalt för bolaget att det inte kunde vänta."
+
+Carolina kunde inte föreställa sig att Niklas skulle få för sig att 

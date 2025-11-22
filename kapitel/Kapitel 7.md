@@ -24,3 +24,6 @@ När Rickard kom fram till hissarna på plan ett var det ingen där, trots att h
 
 Han funderade på att svänga förbi och kolla - hon var grann att se på - men det fick vänta. Första prioritet var att informera gruppen om att de inte var ensamma. Rent tekniskt var det inte ensamma oavsett men hans två vaktkollegor hade fullt upp med markplan och gårdsplanen och skulle inte vara ett problem.
 
+En kort sväng senare verkade det som om han faktiskt hört i syne och när han tänkte efter hade han hört en mans röst, och det visste han med säkerhet att det inte fanns några i byggnaden. 
+
+Enklast var att ta trapporna ner. Husets smarta system höll koll på när hissarna användes och det fanns ingen anledning att lämna fler spår efter sig än nödvändigt. Trapphuset övervakades i och för sig av kameror men han hade stängt av funktionen som sparar videoklipp på hårddisken 

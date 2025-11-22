@@ -3,24 +3,29 @@ aat-event-start-date:
 aat-event-end-date:
 aat-render-enabled: "true"
 timelines:
+  - centrifugen
+  - övergripande
 tags:
   - Carolina
   - MC
+  - Gabriel
 meo-pov:
-meo-intensity:
+  - Carolina
+meo-intensity: "1"
 meo-location:
+  - Labbet, plan 1
 ---
 %% 
 # Extern konflikt
-
+Labbet är stort och Carolina går konstant vilse, Gabriel vägrar ta emot hennes hjälp.
 # Inre konflikt
-
-# Karaktärspåverkan
-
+Hon tvingas inse att hon fortfarande har uruselt lokalsinne och måste lita på hjälpmedel, hon är arg på sin bror, Jakob
+# Karaktär
+Vi får reda på att hon är arg på sin bror, att hon har dåligt lokalsinne, att hon kan hålla god min i elakt spel (samtalet med Gabriel)
 # Förflyttning av handling
-
+Carolina får chansen att följa efter Gabriel, vi etablerar MapMySteps som ett användbart verktyg men med tydliga begränsningar.
 # Beslut tagna
-
+Carolina förföljer Gabriel för att hitta hans labb.
 %%
 
 Först efter att ha vandrat runt hela våningsplanet, vilket tog längre tid än Carolina hade först trott, insåg hon att labbet Andreasson basade över måste vara på plan 2. På markplan fanns bara kontor och produktion och det var uppenbarligen inte på det här planet. Att det ens fanns labb på plan 2 kom som en överraskning men det gick inte att argumentera med fakta.
@@ -129,4 +134,4 @@ Carolina gav honom sitt bästa ställa-in-sig-hos-läraren-leende.
 
 "Detsamma. Lycka till med arkiveringen."
 
-Om hon skyndade sig till trapphuset borde hon hinna ner i tid för att ta reda på varför de
+Om hon skyndade sig till trapphuset borde hon hinna ner i tid för att ta reda på vad den gode professorn så desperat ville dölja.

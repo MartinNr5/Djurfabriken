@@ -31,4 +31,4 @@ Inte ens en timme in i uppdraget och allting höll på att gå åt pipan. Klanta
 
 Det var extremt frustrerande att inte kunna leda gruppen raka spåret till ingången men då hade resten av gruppen fattat misstankar omedelbart. Oavsett hur bra information Rickard hade blivit matad med - via omvägar så klart - hade han inte lyckats få till en fungerande karta. Med lite tur skulle det gå att obemärkt leda gruppen tillbaka i rätt riktning.
 
-Förutsatt att ingen annan retar upp Teodor, även om det var osannolikt med tanke på vad som precis hade utspelat sig. Det borde gå att utnyttja spänningen mellan Emir och Teodor när det väl gällde. Ju mer kaos och förvirring det blir när det väl gäller desto enklare blir det att klara sig undan inte bara med livet i behåll utan också AgroNovas mörkaste hemligheter.
+Förutsatt att ingen annan retar upp Teodor, även om det var osannolikt med tanke på vad som precis hade utspelat sig. Det borde gå att utnyttja spänningen mellan Emir och Teodor när det väl gällde. Ju mer kaos och förvirring det blev desto osynligare gick det att smita undan med resultatet av AgroNovas forskning.

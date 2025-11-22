@@ -23,9 +23,9 @@ meo-location:
 
 %%
 
-Först efter att ha vandrat runt hela plan 1, vilket tog längre tid än Carolina hade först trott, insåg hon att labbet Andreasson basade över måste vara på plan 2. På markplan fanns bara kontor och produktion och det var uppenbarligen inte på det här planet så hur osannolikt det än var gick det inte att argumentera med fakta.
+Först efter att ha vandrat runt hela våningsplanet, vilket tog längre tid än Carolina hade först trott, insåg hon att labbet Andreasson basade över måste vara på plan 2. På markplan fanns bara kontor och produktion och det var uppenbarligen inte på det här planet. Att det ens fanns labb på plan 2 kom som en överraskning men det gick inte att argumentera med fakta.
 
-Eller, jo, det gick det - alldeles för många gav sig på det nu för tiden - men det går inte att gå vinnande ur ett argument med fakta.
+Eller, jo, det gick det - alldeles för många gav sig på det nu för tiden - men det går inte att gå vinnande ur ett argument med fakta. Förutsatt att de var korrekta så klart. Fast var inte fakta i sin natur sanna? Fick det kallas fakta annars?
 
 Det var sällan hon befann sig i den här delen av byggnaden vilket gjorde det till mer av en utmaning att hitta till hissarna än vad det borde vara. Hon försökte tänka efter. Skulle hon ta höger här framme och sedan rakt fram till nästa t-kors? Eller var det här hon skulle fortsätta rakt fram till ett t-kors och höger i det?
 

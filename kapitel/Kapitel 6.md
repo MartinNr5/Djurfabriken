@@ -89,4 +89,17 @@ Gabrielsson öppnade munnen för att säga något men verkade komma på sig i si
 
 "Nä, men det är för... att efterleva de nya EU-lagarna som träder i kraft vid årsskiftet."
 
-Nu var det uppenbart att han drog en vals. Hennes bror jobbade som advokat med fokus på bioteknik och läkemedel och han hade inte nämnt någon sådan lagstiftning med ett ord och med tanke på hur gärna han pratade om sig s
+Nu var det uppenbart att han drog en vals. Hennes bror jobbade som advokat med fokus på bioteknik och läkemedel och han hade inte nämnt någon sådan lagstiftning med ett ord och med tanke på hur gärna han pratade om sig själv och allt det viktiga han höll på med skulle han tveklöst gjort så.
+
+"Låter som dryga böter om vi inte blir klara i tid?"
+
+Gabrielsson nickade entusiastiskt.
+
+"Exakt så! Miljonbelopp i böter om vi inte hinner i tid."
+
+"Låter som om det är väldigt mycket att ta i om ni måste börja ett halvår innan lagen träder i kraft."
+
+"Ohemula mängder."
+
+"På så vis. Bara av ren nyfikenhet, jag sysslar själv med katalogisering och arkivering och har aldrig behövt en centrifug."
+

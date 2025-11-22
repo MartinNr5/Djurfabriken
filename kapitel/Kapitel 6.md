@@ -41,7 +41,7 @@ Ok, här hade hon garanterat kommit från vänster, hon kände väl igen dubbeld
 
 "Vi har pratat om det här, du är för smart för att gå vilse, och framförallt i ditt eget labb." sade hon till brandsläckaren som hängde på väggen framför henne. "AgroNova lär ju inte ha byggt ett helt våningsplan med slumpen som arkitekt. Det går alltid att hitta ett mönster om man bara är observant nog. Så sätt igång att observera."
 
-Eftersom korridoren på andra sidan dörrarna var totalt främmande vände hon på klacken och gick tillbaka samma väg hon kom. Nu gällde det bara att minnas hur hon hade hittat till de här jäkla dörrarna och följa det spåret fast baklänges. 
+Hon vände på klacken och tittade tillbaka på samma väg hon kommit.  Rakt fram förbi två korridorer, nästa vänster, rakt fram förbi et fikarum av något slag, och sedan höger
 
 Fem minuter senare var hon tillbaka till samma uppsättning dörrar. 
 

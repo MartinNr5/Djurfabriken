@@ -60,7 +60,7 @@ Den sträckte sig mycket riktigt säkert femtio-sextio meter bort innan den krö
 
 Han hade inte varit med i gruppen tillräckligt länge för att veta hur Teodor reagerade när någon baktalade hans vänner, och framför allt Rickard. Tyvärr verkade Emir fast besluten att ta reda på det.
 
-"Jo, men nu är vi ju flera stycken som tillsammans har pluggat in instruktionerna och den ganska rudimentära karta vi fått."
+"Jo, men nu är vi ju flera stycken som inte får ordning på instruktionerna och den kartan vi fått är ganska rudimentär."
 
 Teodor tog ett steg mot Emir och lade hastigt ifrån sig sin ryggsäck med ett ljudligt klonkande som fick Jenna att hoppa till.
 
@@ -70,25 +70,25 @@ Emir verkade omgående insett att han trampat i ett klaver av gigantiska proport
 
 "Eh... Alltså... Nä, då uttryckte jag mig slarvigt."
 
-Teodor tog ännu ett steg och tornade nu över Emir som med sina futtiga 169 centimeter i strumplästen nådde Teodor ungefär till nästippen.
+Teodor tog ännu ett steg och tornade nu över Emir som med sina i sammanhanget futtiga 169 centimeter i strumplästen nådde Teodor ungefär till nästippen.
 
 "Hur menar du då?"
 
-"Jo,  Rickard är ju bara en person som under mycket hemlighetsmakeri varit tvungen att pussla ihop en karta från lösryckta fragment han med mycket möda samlat på sig. Med de förutsättningarna är det ingen som kan få till en perfekt karta, inte ens Rickard."
+"Jo,  Rickard har ju själv, under mycket hemlighetsmakeri, varit tvungen att pussla ihop en karta från lösryckta fragment han med mycket möda samlat på sig. Med de förutsättningarna är det ingen som kan få till en perfekt karta, inte ens Rickard."
 
-Zarah noterade med visst intresse hur Teodor verkade begrunda Emir i ärlighetens namn ganska snygga om än genomskinliga räddning. Teodor nickade eftertänksamt.
+Zarah noterade med visst intresse hur Teodor verkade begrunda Emir genomskinliga men i ärlighetens namn ganska snygga räddning. Teodor nickade eftertänksamt.
 
 "Du har en poäng. Det finns en risk att Rickard fått felaktig eller inkomplett information vilket naturligtvis påverkar kvaliteten på kartan."
 
 "Så är vi alla överens om att vi vänder om och provar antingen Jens eller Emirs förslag?" frågade Jenna i neutral ton.
 
-När ingen opponerade sig vände hon sig resolut om och satte av samma väg de kommit från. Deras tunga kängor ekade dämpat mellan tunnelväggarna och rev upp dammet som precis hade hunnit lägga sig till ro runt deras fotavtryck. Zarah var inte förvånad över att Emir höll sig på behörigt avstånd från Teodor, även om det verkade vara vapenvila mellan de två för stunden.
+När ingen opponerade sig vände hon sig resolut om och satte av samma väg de kommit från och de andra slog följe. Ljudet från Bastanta kängor ekade dämpat mellan tunnelväggarna och rev upp dammet som precis hade hunnit samla sig kring deras fotavtryck. Zarah var inte förvånad över att Emir höll sig på behörigt avstånd från Teodor, även om det verkade vara vapenvila mellan de två för stunden.
 
-Hennes tankar gick i stället till Jennas reaktion när Teodor bryskt hade släppt ryggsäcken på betonggolvet. Tanken var att de skulle förstöra så mycket som möjligt av AgroNovas forskning och hade med sig ett antal verktyg, bland annat batteridrivna sågar och kapmaskiner för att vara säkra på att göra ordentlig skada, men om de inte tålde en vådligare törn än så kunde de inte vara några verktyg värda att ha.
+Hennes tankar gick i stället till Jennas reaktion när Teodor bryskt hade släppt ryggsäcken på betonggolvet. Tanken var att de skulle förstöra så mycket som möjligt av AgroNovas forskning och hade med sig ett antal verktyg, bland annat batteridrivna sågar och kapmaskiner för att vara säkra på att göra ordentlig skada, men om de inte tålde en vådligare törn än kunde de inte vara några verktyg värda att ha.
 
 Nu när hon tänkte på det var det lite underligt att Jenna envisats med att packa ryggsäcken själv, innan resten av gänget hade slutit upp utanför tunnelmynningen. Jenna hade alltid slagit Zarah som en klipsk men lite väl idealistisk person, som förmodligen var bättra på att posta uppmaningar i sociala medier än att göra faktisk skillnad. 
 
-Förslaget att angripa AgroNova hade kommit från Rickard, av alla personer, men Jenna hade inte tvekat länge innan hon hoppade på idén med full energi. Vad Zarah kunde förstå hade inte mycket annat konsumerat Jennas vakna timmar när hon med i det närmaste manisk energi tog sig an uppgiften att planera aktionen. Även om det inte syntes på henne.
+Förslaget att angripa AgroNova hade kommit från Rickard, av alla personer, men Jenna hade inte tvekat länge innan hon höll med. Inte mycket annat konsumerat Jennas vakna timmar när hon med i det närmaste manisk energi tog sig an uppgiften att planera aktionen. Även om det inte syntes på henne.
 
 En av anledningarna till att Jennas inlägg på sociala medier var så framgångsrika berodde på att hon var klassiskt vacker, på samma sätt som Marilyn Monroe eller Elizabeth Taylor. Zarah antog i alla fall att så var fallet. Hennes egna inlägg var inte alls lika populära, trots att hon också postade dem på gruppens gemensamma sociala kanaler, och den ende som hade kallat henne vacker var hennes mamma.
 

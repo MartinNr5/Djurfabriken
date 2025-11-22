@@ -51,14 +51,20 @@ Någon minut senare hade appen kalibrerat sensorn den använde för att känna a
 
 Ofrivilligt gled tankarna in på Jakob. Fan ta honom. Han var inte värd att lägga bråkdelen av en sekund på längre och hon tvingade sig att flytta fokus till något annat, vad som helst. Närmast till hands stod uppenbarligen alla tester hon katalogiserat och hon kunde inte låta bli att skratta till. Det hade hon minsann inga problem med att komma ihåg.
 
-Kartan som sakta växte fram i appen ledde henne på rätt spår om hon svängde av en gång för mycket eller gick för långt i ett visst väderstreck och efter vad som kändes som en evighet hade hon lyckats ta sig tillbaka till en korridor hon faktiskt kände igen. I slutet av den svängde man till höger för att komma ut i huvudkorridoren som i sin tur ledde till henne labb, och tillika hissarna.
+Kartan som sakta växte fram i appen ledde henne på rätt spår om hon svängde av en gång för mycket eller gick för långt i ett visst väderstreck och efter vad som kändes som en evighet hade hon lyckats ta sig tillbaka till en korridor hon faktiskt kände igen. Svängde hon till höger i slutet av den skulle hon komma ut i huvudkorridoren som i sin tur ledde till hennes labb, och tillika hissarna.
 
 Risken fanns att hon aldrig skulle bli bättre på att hitta om hon förlitade sig på hjälpmedel hela tiden men i det här fallet ansåg hon det befogat. Alternativet hade varit att ringa efter den dryga vakten och om hon tänkte efter så var det nog fasen bättre att svälta ihjäl i en skrubb än att bli ledsagad till friheten av honom.
 
-Hon svängde runt hörnet av korridoren och höll på att krocka med en vettskrämd man i labbrock och övre medelåldern. Bakom hans rektangulära glasögon och under imponerande buskiga ögonbryn spärrade han upp ögonen i äkta chock. Framför sig knuffade han en vagn med en centrifug på. Hennes centrifug.
+Hon svängde runt hörnet av korridoren och höll på att krocka med en vettskrämd man i labbrock och övre medelåldern. Under imponerande buskiga ögonbryn och bakom rektangulära glasögon spärrade han upp ögonen i äkta chock. Framför sig knuffade han en vagn med en centrifug på. 
+
+Hennes centrifug.
 
 "Jösses Amalia, vad du skräms!" fick mannen ur sig när han väl hade hämtat sig. "Vad gör du här?"
 
-"Du är den andra som frågar mig det på alldeles för kort tid. Jag jobbar här. Som laboratorieassistent i labb 24C." svarade hon med betoning på labbeteckningen och lade armarna i kors.
+"Du är den andra som frågar mig det på alldeles för kort tid. Jag jobbar här. Som laboratorieassistent i labb 14C." svarade hon med betoning på labbeteckningen och lade armarna i kors.
 
+Mannen framför henne såg fundersam ut för en kort sekund men tappade hakan så snart han insåg vad hon sagt.
 
+"Eh, jaha, just det. Det förefaller mig som om att Krause inte informerat om att han tillfälligt lånar ut lite utrustning för att säkerställa att jag kan slutföra mitt arbete."
+
+Så det här var professor Gabriel Andreasson. Föga förvånande påminde han om 

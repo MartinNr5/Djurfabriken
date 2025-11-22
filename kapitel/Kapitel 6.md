@@ -79,4 +79,14 @@ Carolina kunde inte föreställa sig att Niklas skulle göra helt om och få fö
 
 "Så pass. Då blir ju jag nyfiken på vad det är för arbete som är så viktigt att det innebär att jag inte kan slutföra det jag åkte in för att komma i kapp med."
 
-Hennes katalogisering klarade sig absolut utan en centrifug men Gabrielsson hade garanterat ingen koll på vad hon höll på med.
+Hennes katalogisering klarade sig absolut utan en centrifug men Gabrielsson behövde inte få reda på vad hon faktiskt sysslade med.
+
+Gabrielsson öppnade munnen för att säga något men verkade komma på sig i sista stund.
+
+"Huvudsakligen arkivering." fick han ur sig.
+
+"Arkivering? Det låter inte som det borde vara högsta prioritet."
+
+"Nä, men det är för... att efterleva de nya EU-lagarna som träder i kraft vid årsskiftet."
+
+Nu var det uppenbart att han drog en vals. Hennes bror jobbade som advokat med fokus på bioteknik och läkemedel och han hade inte nämnt någon sådan lagstiftning med ett ord och med tanke på hur gärna han pratade om sig s

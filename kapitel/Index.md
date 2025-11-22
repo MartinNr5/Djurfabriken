@@ -13,6 +13,7 @@ longform:
     - - Zarahs POV
       - Jens POV
     - Kapitel 6
+    - Kapitel 7
   sceneTemplate: templates/Mall - Scen.md
   ignoredFiles:
     - manuscript

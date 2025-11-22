@@ -12,7 +12,8 @@
 		{"id":"4a778aba7f24115e","type":"file","file":"världen/karaktärer/Gabriel Andreasson.md","x":-2680,"y":-2040,"width":400,"height":400},
 		{"id":"8ca2a1be4881bf0e","type":"file","file":"världen/karaktärer/Teodor.md","x":-482,"y":-600,"width":400,"height":400},
 		{"id":"e9872e27d2e033b5","type":"file","file":"världen/karaktärer/Emir.md","x":-482,"y":-2040,"width":400,"height":400},
-		{"id":"fc817060d1190bd8","x":-1000,"y":120,"width":400,"height":400,"type":"file","file":"världen/organisationer/TechNoah.md"}
+		{"id":"fc817060d1190bd8","type":"file","file":"världen/organisationer/TechNoah.md","x":-1000,"y":120,"width":400,"height":400},
+		{"id":"7950686a6ce51baa","x":-2160,"y":-600,"width":400,"height":400,"type":"file","file":"världen/karaktärer/Jakob Hjortfeldt.md"}
 	],
 	"edges":[
 		{"id":"83d552f2b8d01751","fromNode":"94628d6715a3d8ab","fromSide":"top","toNode":"dbcf09bd1f0001af","toSide":"bottom","label":"Tillhör"},
@@ -24,7 +25,8 @@
 		{"id":"c3dc401ecb877573","fromNode":"94628d6715a3d8ab","fromSide":"top","toNode":"c51c3f3bebac2e03","toSide":"bottom","label":"Jobbar på"},
 		{"id":"62c0f538d4dc3398","fromNode":"8dade0739907bb03","fromSide":"bottom","toNode":"c51c3f3bebac2e03","toSide":"top","label":"Jobbar på"},
 		{"id":"cccf219a6fa8d4a8","fromNode":"4a778aba7f24115e","fromSide":"bottom","toNode":"c51c3f3bebac2e03","toSide":"top","label":"Jobbar på"},
-		{"id":"caad2e59d2dde9d9","fromNode":"94628d6715a3d8ab","fromSide":"top","toNode":"8ca2a1be4881bf0e","toSide":"top","label":"Barndomskamrater"},
-		{"id":"7aec967409b2afe5","fromNode":"5bcf3bb453f33ade","fromSide":"bottom","toNode":"fc817060d1190bd8","toSide":"top","label":"Jobbar åt"}
+		{"id":"caad2e59d2dde9d9","fromNode":"94628d6715a3d8ab","fromSide":"top","toNode":"8ca2a1be4881bf0e","toSide":"top","fromEnd":"arrow","label":"Barndomskamrater"},
+		{"id":"7aec967409b2afe5","fromNode":"5bcf3bb453f33ade","fromSide":"bottom","toNode":"fc817060d1190bd8","toSide":"top","label":"Jobbar åt"},
+		{"id":"fb4594ee83006255","fromNode":"c51c3f3bebac2e03","fromSide":"bottom","toNode":"7950686a6ce51baa","toSide":"top","fromEnd":"arrow","label":"Syskon"}
 	]
 }
